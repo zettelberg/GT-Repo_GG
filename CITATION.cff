@@ -1,0 +1,20 @@
+
+cff-version: 1.2.0
+title: GT-Repo_GG
+message: If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+repository-code: 'https://github.com/zettelberg/GT-Repo_GG'
+url: 'https://github.com/zettelberg/GT-Repo_GG'
+abstract: |-
+    Ground Truth Repo GG
+keywords:
+    - ocr-d
+    - repository
+    - segmentation
+    - ground-truth
+    - data_structure_and_text
+license: PublicDomainMark 1.0
+commit: v1.1.1
+version: 1_v1.1.1
+date-released: '2024-2-27'
