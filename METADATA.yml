@@ -1,0 +1,27 @@
+schema: https://tboenig.github.io/gt-metadata/schema/2023-10-25/schema.json
+title: GT-Repo_GG
+url: https://github.com/zettelberg/GT-Repo_GG
+authors: []
+description: Ground Truth Repo GG
+project-name: Hernhuter Brüder 001
+language:
+  - deu
+production-software: eScriptorium + Kraken
+script:
+  - Kurrent
+script-type: only-manuscript
+time:
+  notBefore: '1773'
+  notAfter: '1788'
+hands:
+  count: more-than-3
+  level: level2
+license:
+  - name: PublicDomainMark 1.0
+    url: https://creativecommons.org/publicdomain/mark/1.0/
+gtType: data_structure_and_text
+format: Page-XML
+volume:
+  - metric: pages
+    count: 100
+transcription-guidelines: 'diverse Richtlinien, OCRD '
